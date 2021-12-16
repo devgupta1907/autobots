@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/autobots/static/css/main.bd228022.css",
+    "main.js": "/autobots/static/js/main.6aa51ef2.js",
+    "index.html": "/autobots/index.html",
+    "main.bd228022.css.map": "/autobots/static/css/main.bd228022.css.map",
+    "main.6aa51ef2.js.map": "/autobots/static/js/main.6aa51ef2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd228022.css",
+    "static/js/main.6aa51ef2.js"
+  ]
+}
